@@ -8,13 +8,25 @@ body {
     background-color: #333;
     color: #fff;
     padding: 20px;
+    padding-bottom: 8px;
     text-align: center;
 }
 
 .navbar h1 {
-    margin: 0;
+    margin-top:0;
+    margin-bottom: 15px;
 }
-
+.button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
 .content {
     padding: 20px;
     text-align: center; /* Center the image */
@@ -97,5 +109,8 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+
+
 
 
